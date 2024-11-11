@@ -52,4 +52,4 @@ Hier gibt es [GitHub Link](https://github.com)
 
 :sunglasses:
 
-![GitHub watchers](https://img.shields.io/github/watchers/:payermann/:markdown-ubung)
+![GitHub watchers](https://img.shields.io/github/watchers/payermann/markdown-ubung)
