@@ -52,4 +52,4 @@ Hier gibt es [GitHub Link](https://github.com)
 
 :sunglasses:
 
-![GitHub stars](https://img.shields.io/github/stars/payermann/skills-copilot-codespaces-vscode?style=social
+![GitHub stars](https://img.shields.io/github/stars/payermann/skills-copilot-codespaces-vscode?style=social)
